@@ -31,6 +31,7 @@ url: "https://cyberchai.net" # the base hostname & protocol for your site, e.g. 
 remote_theme: b2a2e8/jekyll-theme-console
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 header_pages:
   - index.md
   - about.md
