@@ -1,4 +1,7 @@
 ---
+layout: page
+title: /home
+permalink: /home/
 robots: noindex
 ---
 

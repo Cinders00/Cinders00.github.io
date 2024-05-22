@@ -1,5 +1,7 @@
 ---
-title: 'Test About'
+layout: page
+title: /About
+permalink: /about/
 robots: noindex
 ---
 
