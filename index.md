@@ -21,11 +21,11 @@ Cyber Chai is a digital sanctuary, a quiet corner of the internet dedicated to t
 ## Notes
 
 ### Idea for a New Project
-- **Concept**: Develop a secure note-taking app
+- **Concept**: Create this website.
 - **Features**:
-  - End-to-end encryption
+  - Notes
   - Markdown support
-  - Cross-platform sync
+  - Secure
 
 ### Security Tips
 - Regularly update software and dependencies.
@@ -40,7 +40,7 @@ Cyber Chai is a digital sanctuary, a quiet corner of the internet dedicated to t
 
 ## Contact
 
-Feel free to reach out via [email@example.com](mailto:email@example.com) for any inquiries or collaborations.
+Feel free to reach out via [nick@cyberchai.net](mailto:nick@cyberchai.net) for any inquiries or collaborations.
 
 ---
 
